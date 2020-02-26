@@ -1,0 +1,5 @@
+# use blue(black)pill please input 
+mbed target BLUEPILL_F103C8
+
+# use NUCLEO-F103RB please input
+mbed target NUCLEO_F103RB
