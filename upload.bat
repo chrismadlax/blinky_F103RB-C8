@@ -1,0 +1,1 @@
+C:\Users\iCShop.EDU\.platformio\packages\tool-jlink\JLink.exe -device STM32F103C8 -CommandFile upScript.jlink
